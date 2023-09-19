@@ -11,9 +11,9 @@
         return (
         <> 
 
-      <Header />
-      <Main />
-      <Footer />
+      <Header/>
+      <Main/>
+      <Footer/>
 
         </>
         )
